@@ -1,2 +1,4 @@
 # learn_jsonnet
-some jsonnet learning
+Some jsonnet learning from the following [guide](https://jsonnet-libs.github.io/jsonnet-training-course/index.html)
+
+
